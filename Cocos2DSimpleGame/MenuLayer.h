@@ -12,5 +12,6 @@
 @interface MenuLayer : CCNode {
     
 }
++(CCScene*) scene;
 
 @end
